@@ -191,7 +191,7 @@ torrents:
       remove: a, img, span, b, font
       contents: -2
     minimumratio:
-      text: 1
+      text: 0
     minimumseedtime:
-      #做种21小时
-      text: 75600
+      #做种21小时 75600
+      text: 0
