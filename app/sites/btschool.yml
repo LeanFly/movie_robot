@@ -179,7 +179,7 @@ torrents:
       selector: table.torrentname > tr > td.embedded
       contents: -1
     minimumratio:
-      text: 0
+      text: 1
     minimumseedtime:
       #做种21小时 75600
-      text: 0
+      text: 75600
